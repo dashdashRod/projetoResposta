@@ -1,14 +1,4 @@
-# APIGithub
-Api Rest feita em java
-
-Classe Usuario, classe responsável por getters e setters, se trata como objeto a ser armazenado
-
-Classe Controller, responsável por Criar, Deletar, Modificar e Vizualizar os itens no banco.
-
-Classe GitHubContent, utilizado como wrapper para a api gitHub
-
-
-Paths:
+# Paths:
     
     8080/Lista : Lista todos os usuarios salvos em banco :GET
     
